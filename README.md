@@ -11,7 +11,9 @@
         </ul>
     </div>
   <h2></h2>
-  <p><strong>link do projeto no ar:</strong> <img align="center" width="50px" alt="JS" src="https://media.giphy.com/media/9366IYNrJIFZeEyiwt/giphy.gif"></p>
+  <p><strong>link do projeto no ar:</p></strong> 
+  <div>
+  https://charlan-barneche.github.io/website-according-to-time/ <img align="bottom" width="50px" alt="JS" src="https://media.giphy.com/media/9366IYNrJIFZeEyiwt/giphy.gif">
   <h2></h2>
-    
+  </div>  
 </body>
